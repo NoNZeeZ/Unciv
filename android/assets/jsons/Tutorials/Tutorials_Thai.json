@@ -34,19 +34,19 @@
     [
       "สิ่งแรกที่ออกมาจากเมืองของคุณควรจะเป็น ทหารพราน หรือไม่ก็นักรบ.",
       "ฉันมักจะสร้างนักรบก่อน เพราะมันสามารถเอาไปใช้ป้องกัน และอัพเกรดได้",
-      "  to the Swordsman unit later in the game for a relatively modest sum of gold.",
-      "Scouts can be effective, however, if you seem to be located in an area of dense forest and hills.",
-      "Scouts don’t suffer a movement penalty in this terrain.",
-      "If you’re a veteran of the 4x strategy genre your first Warrior or Scout will be followed by a Settler.",
-      "Fast expanding is absolutely critical in most games of this type."
+      " ต่อไปก็จะสร้างนักดาบในช่วงถัดไปของเกมส์ เพราะว่ามันสมกับทองที่ทีในช่วงกลางเกมส์.",
+      "ทหารพรานค่อนข้างจะมีประโยชน์, เมื่อเมืองของเราจะตั้งอยู่ในเขตป่าและภูเขาทึบ.",
+      "ทหารพรานจะไม่โดนหักแต้มการเคลื่อนที่ในช่องนี้",
+      "ถ้าคุณเคยเล่นเกมส์แนววางแผนแบบ 4 ช่องมาก่อนแล้วละก็ หลักจากสร้างนักรบหรือทหารพรานตัวแรกแล้ว สิ่งที่ควรจะสร้างต่อไปคือนักบุกเบิก.",
+      "การขยายเมืองให้เร็วนั้น เป็นกลยุทธ์ที่สำคัญมากในเกมส์แบบนี้อยู่แล้ว."
     ]
   ],
   _Slow_Start: [
     [
-      "In your first couple of turns,",
-      "  you will have very little options,",
-      "  but as your civilization grows, so do the ",
-      "  number of things requiring your attention"
+      "ในช่วงเทิร์นสองเทิร์นแรกๆ,",
+      "  คุณจะมีอะไรให้ทำน้อยมาก,",
+      "  แต่เมื่ออารยธรรมของเราเติบโตขึ้น เราก็จะ ",
+      "  เริ่มมีหลายสิ่งมาเริ่มให้เราจัดการมากขึ้น"
     ]
   ],
   Culture_and_Policies: [
